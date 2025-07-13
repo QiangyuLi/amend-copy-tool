@@ -1,1 +1,1 @@
-from .core import amend_copy
+from .core import amend_copy, list_amend_methods
